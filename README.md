@@ -43,9 +43,3 @@ Para testar a procedure no seu ambiente Oracle:
 SET SERVEROUTPUT ON;
 CALL PR_RELATORIO();
 ```
-
-## 📅 Informações da Entrega
-
-- **Data Limite**: 12/06/2026
-- **Valor**: 15 pontos
-- **Grupos**: Até 3 alunos
